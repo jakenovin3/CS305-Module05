@@ -1,9 +1,10 @@
 # CS305 - Basic Math Library
 
 
-### Description
-#### This repository outlines basic math functions. Specifically, the following functions:
-- add()
-- subtract()
-- multiply()
-- divide()
+#### Description
+This repository outlines basic math functions. Specifically, the following functions:
+- int add(a, b)
+- int subtract(a, b)
+- int multiply(a, b)
+- int divide(a, b)
+where a and b are integer values.
