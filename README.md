@@ -1,5 +1,4 @@
 # CS305 - Basic Math Library
-### By Jacob Novin
 
 
 ### Description
