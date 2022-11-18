@@ -2,4 +2,8 @@
 
 
 ### Description
-#### This repository outlines basic math functions. Specifically, add, subtract, multiply, and divide.
+#### This repository outlines basic math functions. Specifically, the following functions:
+- add()
+- subtract()
+- multiply()
+- divide()
