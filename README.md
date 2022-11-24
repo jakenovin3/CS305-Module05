@@ -11,3 +11,6 @@ This repository outlines basic math functions. Specifically, the following funct
 
 
 where a and b are integer values.
+
+## License Information:
+- MIT License
