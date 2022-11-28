@@ -1,1 +1,2 @@
-
+# Contributions by:
+- Jacob Novin
