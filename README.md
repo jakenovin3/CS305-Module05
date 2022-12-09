@@ -14,3 +14,7 @@ where a and b are integer values.
 
 ## License Information:
 - MIT License
+
+
+## Una Durkovic contribution
+- This is my hypothetical contribution
